@@ -2,4 +2,4 @@
   <img src="/images/Z.png" alt="My Z Icon" width="100">
 </p>
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" align="center"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
