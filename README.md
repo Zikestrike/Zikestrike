@@ -2,12 +2,12 @@
   <img src="/images/Z.png" alt="My Z Icon" width="100">
 </p>
 
-<p align="center">
-  <h1>Welcome to my GitHub profile</h1>
+<p align="center" font-size="20px">
+  Welcome to my GitHub profile
 </p>
 
 <p align="center">
-  <h3>There isn’t much happening here…</h3>
+  There isn’t much happening here…
 </p>
 
 <p align="center">
