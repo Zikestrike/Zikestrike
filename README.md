@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <h2>But I do hope to use it more for all my stuff</h2>
+  But I do hope to use it more for all my stuff
 </p>
