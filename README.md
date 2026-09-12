@@ -2,4 +2,6 @@
   <img src="/images/Z.png" alt="My Z Icon" width="100">
 </p>
 
-<a href="https://git.io/streak-stats" align="center"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zikestrike&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
