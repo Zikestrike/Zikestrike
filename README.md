@@ -1,4 +1,6 @@
-![Zikestrike's Z Logo](images/Z.png)
+<p align="center">
+  <img src="/images/Z.png" alt="My Z Icon" width="100">
+</p>
 
 # Welcome to my GitHub profile
 
