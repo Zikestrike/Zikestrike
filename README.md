@@ -2,7 +2,7 @@
   <img src="/images/Z.png" alt="My Z Icon" width="100">
 </p>
 
-<p style="align center; font-size 20px;">
+<p align="center">
   Welcome to my GitHub profile
 </p>
 
