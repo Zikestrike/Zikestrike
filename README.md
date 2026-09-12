@@ -2,8 +2,14 @@
   <img src="/images/Z.png" alt="My Z Icon" width="100">
 </p>
 
-# Welcome to my GitHub profile
+<p align="center">
+  <h1>Welcome to my GitHub profile</h1>
+</p>
 
-## There isn’t much happening here…
+<p align="center">
+  <h3>There isn’t much happening here…</h3>
+</p>
 
-# But I do hope to use it more for all my stuff
+<p align="center">
+  <h2>But I do hope to use it more for all my stuff</h2>
+</p>
